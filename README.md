@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MANISH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish5639&label=Profile%20views&color=0e75b6&style=flat" alt="manish5639" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish5639&label=Profile%20views&color=0e75b6&style=flat" alt="manishdotdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish5639" alt="manish5639" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishdotdev" alt="manishdotdev" /></a> </p>
 
 - 🌱 I’m currently learning **C++ , JAVA , JAVASCRIPT.**
 
